@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#1fc57a</color>
+    <color name="iconColor">#FF000000</color>
+    <color name="yellow">#fdda02</color>
+    <color name="endColor">#1fc57a</color>
+    <color name="iconColor1">#FEAD1D</color>
+
+<!--    add to cart button-->
+    <color name="startforcart">#53E888</color>
+    <color name="endforcart">#15BE77</color>
+</resources>
